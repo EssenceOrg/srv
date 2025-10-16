@@ -17,3 +17,17 @@ A secure, modern messaging backend inspired by Signal, but without the need for 
 - **starlight** — Core utilities
 - **solstice** — Database
 - **sonar** — Integrations & Connections
+
+## // Services
+
+| Service     | Description             | URL / Port             |
+| ----------- | ----------------------- | ---------------------- |
+| Postgres    | Relational DB           | localhost:5432         |
+| MongoDB     | NoSQL Document DB       | localhost:27017        |
+| Redis       | In-memory datastore     | localhost:6379         |
+| RabbitMQ    | Message broker (AMQP)   | localhost:5672         |
+| RabbitMQ UI | RabbitMQ Management UI  | http://localhost:15672 |
+| MinIO       | Object storage          | http://localhost:9001  |
+| MailDev     | SMTP & webmail dev tool | http://localhost:1080  |
+| Keycloak    | Identity & Auth server  | http://localhost:8082  |
+| Nginx       | Reverse proxy / gateway | http://localhost       |
