@@ -1,0 +1,7 @@
+[package]
+name = "starlight"
+description = "Core utilities for Essence incl. logging, config, errors, etc..."
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

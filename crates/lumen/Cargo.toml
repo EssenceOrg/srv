@@ -1,0 +1,7 @@
+[package]
+name = "lumen"
+description = "Daemon for Essence powering background tasks such as push notifications and so on..."
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
