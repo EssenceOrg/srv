@@ -1,11 +1,12 @@
 [workspace]
 members = [
+    "crates/astral",
     "crates/aurora",
+    "crates/echo",
     "crates/eden",
+    "crates/january",
     "crates/lumen",
     "crates/solstice",
     "crates/sonar",
-    "crates/january",
-    "crates/echo",
     "crates/starlight",
 ]
