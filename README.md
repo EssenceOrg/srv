@@ -2,7 +2,7 @@
 
 ## // About
 
-A secure, modern messaging backend inspired by Singal, but without the need for phone numbers. It will feature end-to-end encryption, real-time notifications, Spotify presence integration. Purely built with Rust with a workspace-based architecture.
+A secure, modern messaging backend inspired by Signal, but without the need for phone numbers. It will feature end-to-end encryption, real-time notifications, Spotify presence integration. Purely built with Rust with a workspace-based architecture.
 
 ## // Workspace Structure Overview
 
